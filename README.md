@@ -283,6 +283,14 @@ softwares and tools used : Git , Java , Tomcat , Jenkins , Ant.
 
 ![80 NEW VIEW SELECT BUILD PIPELINE](https://github.com/howdycloudyarsh/samplewebapp/assets/133496386/11bd56f6-4f07-4593-b814-788f9fe2c2f7)
 
+> Configure initial job in the pipeline.
+
+![81 DOWNSTREAM CONFIG](https://github.com/howdycloudyarsh/samplewebapp/assets/133496386/25d41ddb-7dd0-48a5-a5d6-ec92e6697a66)
+
+> Configure the Build Trigger as Poll SCM and put ***** and save it.
+
+![82 CONFIG 1ST JOB POLL SCM](https://github.com/howdycloudyarsh/samplewebapp/assets/133496386/24a39695-8db3-4a6c-996f-f63bdca85931)
+
 
 
 
